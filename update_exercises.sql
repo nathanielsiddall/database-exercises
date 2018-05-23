@@ -20,3 +20,5 @@ SELECT *
 UPDATE albums
   SET artist = 'Peter Jackson'
   WHERE artist = 'Michael Jackson';
+
+

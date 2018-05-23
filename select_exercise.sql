@@ -33,7 +33,7 @@ SELECT *
 
 SELECT *
   FROM albums
-  WHERE genre like '%rock%';
+  WHERE artist like '%Alanis Morissette%';
 
 
 
